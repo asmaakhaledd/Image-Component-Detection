@@ -3,7 +3,8 @@
 
 ## Overview
 
-The **Image Component Detection** application allows users to upload an image and detect various components within the image using the YOLOv5 object detection model. This app is built using the Streamlit framework, making it easy to use and interact with.
+The **Image Component Detection** application allows users to upload an image and detect various components within the image using the YOLOv5 object detection model. This app is built using the Streamlit framework, making it easy to use and interact with, with numbers drawn on the boxes around the detected components which represents the confidence scores for each detection.
+
 
 ## Installation
 
